@@ -6,7 +6,9 @@
 
 **Ethics Guardian** is a "Mission Control" dashboard for AI governance. It transforms static regulatory frameworks (GDPR, NIST AI RMF, ISO 42001) into live, actionable intelligence using **Algolia Agent Studio**.
 
-![Ethics Guardian Dashboard](./docs/dashboard-preview.png)
+![Ethics Guardian Dashboard](https://github.com/user-attachments/assets/41e3afc3-4660-4121-92bc-5bf882def37e)
+
+
 
 ## 🚀 The Mission
 Developers are building AI faster than they can audit it. "Compliance Hallucinations" occur when AI agents ignore safety guidelines. **Ethics Guardian** solves this with **Grounded RAG**—using Algolia as the unshakeable source of truth for regulatory data.
