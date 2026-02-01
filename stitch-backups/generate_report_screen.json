@@ -1,0 +1,18 @@
+{
+    "jsonrpc": "2.0",
+    "id": 9,
+    "method": "tools/call",
+    "params": {
+        "name": "generate_screen_from_text",
+        "arguments": {
+            "projectId": "9884606635611307442",
+            "prompt": "Generate a 'Detailed Compliance Report' screen for the Ethics Guardian. This should look like a structured document view but with a modern glassmorphic UI. 
+Items to include:
+1. Executive Summary: AI Ethics Health Check.
+2. Risk Breakdown: Categorized by Privacy, Bias, Safety, and Transparency.
+3. Remediation Steps: Actionable items for developers.
+4. Export options: PDF, JSON, and Algolia Index sync.
+Keep the dark blue/amber theme.","deviceType": "DESKTOP"
+        }
+    }
+}

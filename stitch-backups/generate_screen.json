@@ -1,0 +1,13 @@
+{
+    "jsonrpc": "2.0",
+    "id": 4,
+    "method": "tools/call",
+    "params": {
+        "name": "generate_screen_from_text",
+        "arguments": {
+            "projectId": "9884606635611307442",
+            "prompt": "Create a high-fidelity 'Ethics Guardian' Dashboard. Dark HUD theme, glassmorphism, central compliance gauge sitting in the middle showing 87%, sub-panels for NIST/ISO standards, and a scrolling audit log.",
+            "deviceType": "DESKTOP"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "name": "algolia-ethics-guardian",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "algoliasearch": "^5.2.0",
+        "autoprefixer": "^10.4.20",
+        "clsx": "^2.1.1",
+        "lucide-react": "^0.474.0",
+        "next": "16.1.4",
+        "react": "19.2.3",
+        "react-dom": "19.2.3",
+        "react-instantsearch": "^7.15.0",
+        "react-instantsearch-nextjs": "^1.0.12",
+        "tailwind-merge": "^3.0.1",
+        "tailwindcss": "^3.4.17"
+    },
+    "devDependencies": {
+        "@types/node": "^20",
+        "@types/react": "^19",
+        "@types/react-dom": "^19",
+        "eslint": "^9",
+        "eslint-config-next": "16.1.4",
+        "postcss": "^8.4.49",
+        "typescript": "^5"
+    }
+}

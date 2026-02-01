@@ -1,0 +1,11 @@
+{
+    "jsonrpc": "2.0",
+    "id": 3,
+    "method": "tools/call",
+    "params": {
+        "name": "create_project",
+        "arguments": {
+            "title": "Ethics Guardian 2026"
+        }
+    }
+}

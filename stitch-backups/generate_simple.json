@@ -1,0 +1,13 @@
+{
+    "jsonrpc": "2.0",
+    "id": 7,
+    "method": "tools/call",
+    "params": {
+        "name": "generate_screen_from_text",
+        "arguments": {
+            "projectId": "9884606635611307442",
+            "prompt": "Generate a dark HUD dashboard for an AI Ethics project with glassmorphism.",
+            "deviceType": "DESKTOP"
+        }
+    }
+}

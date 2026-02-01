@@ -1,0 +1,13 @@
+{
+    "jsonrpc": "2.0",
+    "id": 10,
+    "method": "tools/call",
+    "params": {
+        "name": "generate_screen_from_text",
+        "arguments": {
+            "projectId": "14545011094485450817",
+            "prompt": "Create the Ethics Guardian Dashboard. Dark UI, Glassmorphism, compliance gauge.",
+            "deviceType": "DESKTOP"
+        }
+    }
+}

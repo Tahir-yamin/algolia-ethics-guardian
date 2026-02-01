@@ -1,0 +1,29 @@
+﻿gcloud.cmd : Go to the following link in your 
+browser, and complete the sign-in prompts:
+At line:1 char:67
++ ... cp\config'; & 'C:\Users\Administrator\.stit
+ch-mcp\google-cloud-sdk\bi ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Go  
+   to the follo...ign-in prompts::String) [], R  
+  emoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+    https://accounts.google.com/o/oauth2/auth?res
+ponse_type=code&client_id=32555940559.apps.google
+usercontent.com&redirect_uri=https%3A%2F%2Fsdk.cl
+oud.google.com%2Fauthcode.html&scope=openid+https
+%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.ema
+il+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fclou
+d-platform+https%3A%2F%2Fwww.googleapis.com%2Faut
+h%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.
+com%2Fauth%2Fsqlservice.login+https%3A%2F%2Fwww.g
+oogleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.
+googleapis.com%2Fauth%2Faccounts.reauth&state=lvm
+UhOhowGbDbGOOz3nESSWMIeDaL2&prompt=consent&token_
+usage=remote&access_type=offline&code_challenge=u
+KHwySEu5x3tdRQLGlELXoEG7qahOBiVAR8j6Y5v0A0&code_c
+hallenge_method=S256
+

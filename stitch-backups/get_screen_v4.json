@@ -1,0 +1,12 @@
+{
+    "jsonrpc": "2.0",
+    "id": 8,
+    "method": "tools/call",
+    "params": {
+        "name": "get_screen",
+        "arguments": {
+            "projectId": "9884606635611307442",
+            "screenId": "6401b7c89dff457f9348e49ca1d8bb1f"
+        }
+    }
+}
